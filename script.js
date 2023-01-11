@@ -25,7 +25,7 @@ let coverPicNum = Math.floor(Math.random() * 3 + 1);
         }
     })
 
-    $('#header').click(
+    $('#mynav').click(
         function () {
             method('100%')
         }
